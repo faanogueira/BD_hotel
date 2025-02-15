@@ -1,5 +1,3 @@
-# grupo-4
-
 # Projeto de Banco de Dados de Hotel
 
 Este projeto tem como objetivo desenvolver um sistema de gerenciamento de reservas de um hotel utilizando PostgreSQL. O banco de dados inclui tabelas para hóspedes, reservas, quartos e logs de reservas, além de funções e triggers para automatizar o registro de operações.
@@ -84,4 +82,12 @@ Trigger que chama a função `log_nova_reserva()` após a inserção de uma nova
 
 Este projeto exemplifica a criação e manipulação de um banco de dados de hotel em PostgreSQL, cobrindo desde a definição das tabelas e inserção de dados até a criação de funções, triggers e consultas avançadas.
 
-Se precisar de ajuda do grupo-4, estamos por aqui! 😉
+
+## 📩 Contato
+Atividade realizada por **Fábio Nogueira**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/faanogueira/)
+[![GitHub](https://img.shields.io/badge/GitHub-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://github.com/faanogueira)
+[![Gmail](https://img.shields.io/badge/Gmail-1B1C1E?style=for-the-badge&logo=gmail&logoColor=C71610)](mailto:faanogueira@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1B1C1E?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=5571983937557)
+
